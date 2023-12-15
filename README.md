@@ -55,11 +55,11 @@ ASAP ... 🚧👩‍💻
 
 <h2>Data Building</h2>
 
-* `apriori()` is a Naive Bayes Gaussian model;
-  * min_support:
-* `association_rules()` 
-  * metric:
-  * min_threshold:
+* `apriori()` is an influential algorithm that is generally used in the field of data mining & association rule learning. It is used to identify frequent itemsets in a dataset & generate an association based rule based on the itemsets;
+* `association_rules()` : Rule generation is a common task in the mining of frequent patterns. An association rule is an implication expression of the form X→Y
+, where X and Y are disjoint itemsets;
+  * metric: see below
+
 
 <h2>Results and Output</h2>
 
